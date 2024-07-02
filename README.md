@@ -5,7 +5,7 @@
 CrewAI is a framework designed to build and manage teams of AI agents and facilitate collaboration between different AI agents. 
 It allows you to create individual agents with specific roles and functionalities. These agents can then work together to achieve complex tasks.
 
-## Here's a breakdown what CrewAI offers 
+## Here's a breakdown of what CrewAI offers 
 
 - Multi-agent Collaboration: CrewAI allows you to create teams of AI agents, each with its own strengths and functionalities.
 - These agents can then work together to achieve complex tasks 
